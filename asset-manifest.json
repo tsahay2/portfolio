@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tsahay2/portfolio/static/css/main.c20499bd.chunk.css",
+    "main.js": "/tsahay2/portfolio/static/js/main.e2d33875.chunk.js",
+    "main.js.map": "/tsahay2/portfolio/static/js/main.e2d33875.chunk.js.map",
+    "runtime-main.js": "/tsahay2/portfolio/static/js/runtime-main.fffeaf88.js",
+    "runtime-main.js.map": "/tsahay2/portfolio/static/js/runtime-main.fffeaf88.js.map",
+    "static/js/2.51374d8c.chunk.js": "/tsahay2/portfolio/static/js/2.51374d8c.chunk.js",
+    "static/js/2.51374d8c.chunk.js.map": "/tsahay2/portfolio/static/js/2.51374d8c.chunk.js.map",
+    "index.html": "/tsahay2/portfolio/index.html",
+    "precache-manifest.3ff040bd1251cec51ebadec8ad3aae6e.js": "/tsahay2/portfolio/precache-manifest.3ff040bd1251cec51ebadec8ad3aae6e.js",
+    "service-worker.js": "/tsahay2/portfolio/service-worker.js",
+    "static/css/main.c20499bd.chunk.css.map": "/tsahay2/portfolio/static/css/main.c20499bd.chunk.css.map",
+    "static/js/2.51374d8c.chunk.js.LICENSE.txt": "/tsahay2/portfolio/static/js/2.51374d8c.chunk.js.LICENSE.txt",
+    "static/media/profile.png": "/tsahay2/portfolio/static/media/profile.5b3c19a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fffeaf88.js",
+    "static/js/2.51374d8c.chunk.js",
+    "static/css/main.c20499bd.chunk.css",
+    "static/js/main.e2d33875.chunk.js"
+  ]
+}
